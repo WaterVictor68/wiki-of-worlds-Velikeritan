@@ -5,7 +5,8 @@ main{
     background-color: #121212;   
 }
 footer{
-    background-color: #262425; color:#E0E0E0 ;
+    background-color: #262425;
+    font-family: "Poiret One", sans-serif;
 }
 #one{
     color: aquamarine;
@@ -21,4 +22,12 @@ body{
 }
 a{
     color: aquamarine;    
+}
+.backfoto{
+    height: 300px;
+    border: solid black;
+    background: url(./pngtree-burning-blue-fire-illustration-png-image_7768763.png) ;
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: 5% ;
 }
